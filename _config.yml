@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Jenna Daly  # Be used at blog posts' author.
   first_name: Jenna  # Be used at index page about me section.
   last_name: Daly  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar1.jpg  # upload your avatar at directory and edit it.
   github_username: jennadaly  # Leave blank if you don't have now
   linkedin_id: jennadaly1 # Leave blank if you don't have now
   facebook_username: jenna.daly.50  # Leave blank if you don't have now
