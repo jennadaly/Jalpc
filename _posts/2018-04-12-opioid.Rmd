@@ -9,5 +9,5 @@ tags: []
 icon: icon-html
 ---
 
-Data cleaning is at the forefront of my responsibility at CTData. One data set in particular requires a special set of munging and processing skills, due to the nature in which the data are collected. I go into detail about the data cleaning steps and tie them back to the data topic in this [blog post]<http://ctdata.org/news/accidental-opioid-related-deaths-ct-and-importance-data-cleaning/>. (Originally posted to <http://ctdata.org/news/> on 03/22/2018)
+Data cleaning is at the forefront of my responsibility at CTData. One data set in particular requires a special set of munging and processing skills, due to the nature in which the data are collected. I go into detail about the data cleaning steps and tie them back to the data topic in this [blog post](http://ctdata.org/news/accidental-opioid-related-deaths-ct-and-importance-data-cleaning/>. (Originally posted to <http://ctdata.org/news/) on 03/22/2018)
 
