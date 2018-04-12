@@ -4,7 +4,7 @@
     detail: Connecticut Data Collaborative
     i18n: company_a
   desc:
-    detail: I've worked at CT Data ....
+    detail: 
     i18n: company_a_desc
   date:
     detail: Jan. 2017
@@ -18,7 +18,7 @@
     detail: United Technologies Corporation
     i18n: company_b
   desc:
-    detail: I worked at UTC ...
+    detail: 
     i18n: company_b_desc
   date:
     detail: Jul. 2016
@@ -32,7 +32,7 @@
     detail: Pratt & Whitney
     i18n: company_b
   desc:
-    detail: I worked at PW ...
+    detail: 
     i18n: company_b_desc
   date:
     detail: Sept. 2012
