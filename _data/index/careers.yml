@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Graduated Quinnipiac University
+    i18n: company_a
+  desc:
+    detail: MS Business Analytics
+    i18n: company_a_desc
+  date:
+    detail: May 2017
+    i18n: company_a_date
+  job:
+    detail: Masters
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
     detail: Connecticut Data Collaborative
     i18n: company_a
   desc:
@@ -39,5 +53,19 @@
     i18n: company_b_date
   job:
     detail: Systems Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Graduated University of Hartford
+    i18n: company_b
+  desc:
+    detail: BSME with Acoustics
+    i18n: company_b_desc
+  date:
+    detail: May 2012
+    i18n: company_b_date
+  job:
+    detail: Bachelors
     i18n: company_b_job
   icon: fa-plus-square
